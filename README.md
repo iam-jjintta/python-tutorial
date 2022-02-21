@@ -1,8 +1,8 @@
-# python-tutorial
+# 흔한 찐따의 파이썬 튜토리얼 (Python Tutorial)
 흔한 찐따의 파이썬 튜토리얼
 
 ## 파이썬 다운로드 하기
-- [파이썬 홈페이지](https://www.python.org/)에 접속해서 Download로 인스톨한다.
+- [파이썬 홈페이지](https://www.python.org/)에 접속해서 `Download` 를 클릭해 인스톨한다.
 
 ## 참고서 (파이썬 공식 문서: 한국어 버전)
 - [파이썬 한국어 문서](https://docs.python.org/ko/3/)에 접속한다.
