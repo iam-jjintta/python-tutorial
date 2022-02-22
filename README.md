@@ -18,7 +18,7 @@
 - 메모장 혹은 에디터를 실행한다.
 - 만약 에디터를 사용하려면 [Notepad++](https://notepad-plus-plus.org/downloads/) 혹은 [Visual Studio Code](https://code.visualstudio.com/download)를 다운로드 한 후에 설치한다.
 - 에디터를 실행한 후에 파이썬 코드를 작성한 후에 확장자를 `.py` 로 저장한다.
-- `cmd` 창에서 `python 내가_작성한_파이썬_파일명.py` 명령어로 파이썬을 실행할 수 있다.
+- `cmd` 창에서 `python "내가_작성한_파이썬_파일명.py"` 명령어로 파이썬을 실행할 수 있다.
 
 ### 세번째 방법 (PyCharm 사용)
 - [pycharm](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows) 다운로드 페이지에 접속한다.
