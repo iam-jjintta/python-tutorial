@@ -1,3 +1,7 @@
+<div align='center'>
+  <img alt='python' src="/image/python.png">
+</div>
+
 # 흔한 찐따의 파이썬 튜토리얼 (Python Tutorial)
 흔한 찐따의 파이썬 튜토리얼입니다.
 
