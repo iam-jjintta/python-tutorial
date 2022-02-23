@@ -1,6 +1,6 @@
 
 a = frozenset([1, 2, 3, 4, 5])
-b = frozenset([1, 2, 3])
+b = frozenset([1, 2, 6])
 
 print('a:', a)
 print('b:', b)
