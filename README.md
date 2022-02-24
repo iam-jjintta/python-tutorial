@@ -9,6 +9,9 @@
 
 제가 개인적으로 공부한 내용들과 예제 코드들을 저장하는 자습서용 깃허브 저장소입니다.
 
+## 흔한 찐따의 파이썬 튜토리얼 깃허브 위키(wiki) 페이지
+- 공부했던 내용들을 정리해둔 [위키(wiki)](https://github.com/iam-jjintta/python-tutorial/wiki) 페이지를 만들어봤습니다.
+
 ## 파이썬 다운로드 및 설치하기
 1. [파이썬 홈페이지](https://www.python.org/)에 접속해서 `Download` 를 클릭해 인스톨한다.
 2. 키보드 `Windows (시작)` + `R` 키를 눌러 `cmd` 를 입력해 실행한 후 `python --version` 명령어를 입력한다.
