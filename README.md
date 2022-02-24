@@ -40,6 +40,11 @@
 3. 사용 방법은 위의 `pycharm` 과 거의 비슷하다.
 4. 자세한 설치 방법과 사용 방법은 [Visual Studio 자습서](https://docs.microsoft.com/ko-kr/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-00-installation?view=vs-2022)를 통해 확인할 수 있다.
 
+### 다섯번째 방법 (Anaconda 사용)
+1. [Anaconda 다운로드](https://www.anaconda.com/products/individual) 페이지에서 다운로드 한다.
+2. 자세한 설치 방법은 [아나콘다 설치](https://wikidocs.net/2826) 문서를 참고한다.
+3. 아나콘다는 주로 파이썬 코드를 테스트하거나 공부, 데이터 분석, 파이썬 코드와 마크다운(Markdown) 문법을 사용하여 문서화를 하기 위해 사용된다.
+
 ## 참고서
 
 ### 파이썬 공식 문서: 한국어 버전
