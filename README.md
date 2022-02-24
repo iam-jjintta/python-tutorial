@@ -37,6 +37,8 @@
 ### 네번째 방법 (Visual Studio 사용)
 1. [Visual Studio 다운로드 페이지](https://visualstudio.microsoft.com/ko/vs/features/python/)에 접속한다.
 2. `Visual Studio with Python` 버튼을 클릭한 후 `Community` 버전을 클릭하여 다운로드한 후에 설치한다.
+3. 사용 방법은 위의 `pycharm` 과 거의 비슷하다.
+4. 자세한 설치 방법과 사용 방법은 [Visual Studio 자습서](https://docs.microsoft.com/ko-kr/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-00-installation?view=vs-2022)를 통해 확인할 수 있다.
 
 ## 참고서
 
