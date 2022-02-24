@@ -21,13 +21,13 @@
 4. 메뉴에서 `File` > `New File` 을 클릭하여 파이썬 코드를 작성할 수 있는 새 창을 띄운다. (단축키: `Ctrl` + `N`)
 5. 새로 띄운 창에서 파이썬 코드를 작성한다.
 6. 새로 띄운 창의 메뉴에서 `File` > `Save` 를 클릭하고 작성한 파이썬 코드를 저장한다. (단축키: `Ctrl` + `S`)
-7. 새로 띄운 창의 메뉴에서 `Run` > `Run Module` 을 클릭한다. (단축키: `F5`)
+7. 새로 띄운 창의 메뉴에서 `Run` > `Run Module` 을 클릭하여 작성한 파이썬 코드를 실행한다. (단축키: `F5`)
 
 ### 두번째 방법 (Notepad++ 혹은 Visual Studio Code 사용)
 1. 메모장 혹은 에디터를 실행한다.
 2. 만약 에디터를 사용하려면 [Notepad++](https://notepad-plus-plus.org/downloads/) 혹은 [Visual Studio Code](https://code.visualstudio.com/download)를 다운로드 한 후에 설치한다.
 3. 에디터를 실행한 후에 파이썬 코드를 작성한 후에 확장자를 `.py` 로 저장한다.
-4. `cmd` 창에서 `python "내가_작성한_파이썬_파일명.py"` 명령어로 파이썬을 실행할 수 있다.
+4. `cmd` 창에서 `python "경로\내가_작성한_파이썬_파일명.py"` 명령어로 파이썬을 실행할 수 있다.
 
 ### 세번째 방법 (PyCharm 사용)
 1. [pycharm](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows) 다운로드 페이지에 접속한다.
