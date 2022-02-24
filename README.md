@@ -1,5 +1,7 @@
 <div align='center'>
-  <img alt='python' src="/image/python.png">
+  <a href='https://github.com/iam-jjintta/python-tutorial'>
+    <img alt='python' src="/image/python.png">
+  </a>
 </div>
 
 # 흔한 찐따의 파이썬 튜토리얼 (Python Tutorial)
