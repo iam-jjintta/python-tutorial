@@ -15,4 +15,4 @@
 - 깃허브 페이지 열기
 
 ## 실행 결과
-![실행 결과](/images/1.png)
+![실행 결과](https://raw.githubusercontent.com/iam-jjintta/python-tutorial/main/projects/simple-memo/images/2.PNG)
