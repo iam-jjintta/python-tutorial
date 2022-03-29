@@ -25,4 +25,4 @@
 - `Tab` 키 입력 시 공백 문자 4번으로 치환 기능
 
 ## 실행 결과
-![실행 결과]()
+![실행 결과](https://raw.githubusercontent.com/iam-jjintta/python-tutorial/main/projects/simple-python-launcher/images/2.png)
