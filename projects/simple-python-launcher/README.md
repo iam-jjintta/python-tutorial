@@ -10,11 +10,13 @@
 ## 사용한 라이브러리
 사용한 라이브러리는 저번에 사용했던 거랑 동일합니다.
 
-새로 추가하거나 사용하지 않은 라이브러리는 없습니다.
+새로 추가해서 사용한 라이브러리는
+파이썬 표준 라이브러리인 [io](https://docs.python.org/ko/3/library/io.html) 라이브러리를 사용했습니다.
 
 - [tkinter — Tcl/Tk 파이썬 인터페이스](https://docs.python.org/ko/3/library/tkinter.html)
 - [sys — 시스템 특정 파라미터와 함수](https://docs.python.org/ko/3/library/sys.html)
 - [webbrowser — Convenient web-browser controller](https://docs.python.org/ko/3/library/webbrowser.html)
+- [io — 스트림 작업을 위한 핵심 도구](https://docs.python.org/ko/3/library/io.html)
 
 ## 추가된 기능
 새롭게 추가한 기능들은 다음과 같습니다.
