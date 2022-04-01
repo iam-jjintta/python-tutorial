@@ -53,7 +53,7 @@ class Email:
         self.Subject = params.get('Subject')
         self.From = params.get('From')
         self.To = params.get('To')
-        self.Preamble = params.get('Preamble', '흔한 찐따의 이메일')
+        self.Preamble = params.get('Preamble', '흔한 찐따의 이메일\n')
         self.Message = params.get('Message')
 
 
@@ -129,6 +129,7 @@ class Email:
     @Preamble.setter
     def Preamble(self, preamble):
         self._preamble = preamble
+        # self.email.preamble = preamble
 
     @property
     def Message(self):
