@@ -151,7 +151,26 @@ class Email:
         self._email = email
 
 
-    def login(self):
+    def attach(self, filename):
+        maintype, subtype = self._get_mimetypes(filename)
+        with open(filename, 'rb') as file:
+            data = file.read()
+            self.email.add_attachment(
+                data,
+                maintype=maintype,
+                subtype=subtype,
+                filename=filename.split('/')[-1]
+            )
+            return filename
+
+
+    def send(self):
+        smtp = self._login()
+        smtp.send_message(self.email, mail_options=['SMTPUTF8'])
+        smtp.quit()
+
+
+    def _login(self):
         if self.is_ssl:
             smtp = stl.SMTP_SSL(self.host, self.port)
             print(smtp)
@@ -164,25 +183,6 @@ class Email:
 
         smtp.login(self.address, self.password)
         return smtp
-
-
-    def send(self):
-        smtp = self.login()
-        smtp.send_message(self.email, mail_options=['SMTPUTF8'])
-        smtp.quit()
-
-
-    def attach(self, filename):
-        maintype, subtype = self._get_mimetypes(filename)
-        with open(filename, 'rb') as file:
-            data = file.read()
-            self.email.add_attachment(
-                data,
-                maintype=maintype,
-                subtype=subtype,
-                filename=filename.split('/')[-1]
-            )
-            return filename
 
 
     def _get_mimetypes(self, filename):
