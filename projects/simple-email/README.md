@@ -9,6 +9,7 @@
 - [tkinter — Tcl/Tk 파이썬 인터페이스](https://docs.python.org/ko/3/library/tkinter.html)
 - [email — 전자 메일과 MIME 처리 패키지](https://docs.python.org/ko/3/library/email.html)
 - [smtplib — SMTP 프로토콜 클라이언트](https://docs.python.org/ko/3/library/smtplib.html)
+- [mimetypes — 파일명을 MIME 유형에 매핑](https://docs.python.org/ko/3/library/mimetypes.html)
 
 ## 실행 결과
 ![실행 결과](https://raw.githubusercontent.com/iam-jjintta/python-tutorial/main/projects/simple-email/images/6.PNG)
