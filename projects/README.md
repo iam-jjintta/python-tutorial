@@ -26,3 +26,6 @@
 
 ## simple-email
 파이썬으로 이메일을 수신할 수 있는 간단한 프로그램입니다.
+
+전체 소스 코드를 확인하시려면 [저장소](https://github.com/iam-jjintta/python-tutorial/tree/main/projects/simple-email)를,
+프로젝트에 대한 잡다한 썰을 보시려면 [티스토리 블로그 포스팅](https://iamjjintta.tistory.com/149)을 참고해주세요.
