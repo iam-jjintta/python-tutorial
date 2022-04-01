@@ -4,7 +4,6 @@ import mimetypes as mt
 
 from email import policy
 from email.message import EmailMessage
-from email.header import Header
 
 
 SERVER_INFO = {
