@@ -48,7 +48,7 @@ class Login(tk.Toplevel):
         super().__init__(master)
         self.icon = icon
 
-        self.setting_window(title=title, icon=icon)
+        self.setting_window(title)
         self.create_widgets()
         self.setting_widgets()
         self.grid_widgets()
@@ -101,7 +101,7 @@ class MailBox(tk.Frame):
         super().__init__(master)
         self.icon = icon
 
-        self.setting_window(title=title, icon=icon)
+        self.setting_window(title)
         self.create_widgets()
         self.setting_widgets()
         self.grid_widgets()
