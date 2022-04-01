@@ -46,6 +46,7 @@ class Login(tk.Toplevel):
 
     def __init__(self, master=None, title='로그인', icon=None):
         super().__init__(master)
+        self.icon = icon
 
         self.setting_window(title=title, icon=icon)
         self.create_widgets()
@@ -54,10 +55,10 @@ class Login(tk.Toplevel):
         self.bind_events()
 
 
-    def setting_window(self, title, icon=None, width=250, height=100):
+    def setting_window(self, title, width=250, height=100):
         self.title(title)
-        if icon:
-            self.iconbitmap(icon)
+        if self.icon:
+            self.iconbitmap(self.icon)
         resize_window(self, width, height)
 
 
@@ -117,10 +118,10 @@ class MailBox(tk.Frame):
         return gmail
 
 
-    def setting_window(self, title, icon=None, width=640, height=480):
+    def setting_window(self, title, width=640, height=480):
         self.master.title(title)
         if self.icon:
-            self.master.iconbitmap(icon)
+            self.master.iconbitmap(self.icon)
         resize_window(self.master, width, height)
         self.master.resizable(width=False, height=False)
 
