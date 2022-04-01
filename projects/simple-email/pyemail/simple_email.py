@@ -136,9 +136,6 @@ class Email:
         return self._message
     @Message.setter
     def Message(self, message):
-        print(type(message))
-        print(message)
-        print(repr(message))
         self._message = message
         if message is not None:
             self.email.set_content(message)
