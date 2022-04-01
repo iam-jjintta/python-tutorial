@@ -11,4 +11,4 @@
 - [smtplib — SMTP 프로토콜 클라이언트](https://docs.python.org/ko/3/library/smtplib.html)
 
 ## 실행 결과
-![실행 결과](/images/1.png)
+![실행 결과](https://raw.githubusercontent.com/iam-jjintta/python-tutorial/main/projects/simple-email/images/6.PNG)
