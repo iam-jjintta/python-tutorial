@@ -9,9 +9,15 @@
 앞으로도 잘 부탁드립니다.
 
 # 목차
-1. [simple-memo](#simple-memo)
-2. [simple-python-launcher](#simple-python-launcher)
-3. [simple-email](#simple-email)
+1. [sample-codes](#sample-codes)
+2. [simple-memo](#simple-memo)
+3. [simple-python-launcher](#simple-python-launcher)
+4. [simple-email](#simple-email)
+
+## sample-codes
+제가 임시적으로 작성한 코드를 업로드하는 저장소입니다.
+
+예제와 테스트용 코드를 업로드했습니다.
 
 ## simple-memo
 제가 처음으로 만든 파이썬 GUI 프로그래밍 프로젝트이며, 간단한 메모장 프로그램입니다.
