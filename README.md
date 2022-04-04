@@ -55,7 +55,7 @@
 ### 파이썬 공식 문서: 한국어 버전
 - [파이썬 한국어 문서](https://docs.python.org/ko/3/)에 접속한다.
 - [자습서](https://docs.python.org/ko/3/tutorial/index.html)를 통해 예제들을 참고하며 공부할 수 있다.
-- [파이썬 언어 레퍼런스](https://docs.python.org/ko/3/reference/index.html) 및 [라이브러리 래퍼런스](https://docs.python.org/ko/3/library/index.html) 를 통해 더 자세하고 많은 정보들을 참고할 수 있다.
+- [파이썬 언어 레퍼런스](https://docs.python.org/ko/3/reference/index.html) 및 [라이브러리 래퍼런스](https://docs.python.org/ko/3/library/index.html)를 통해 더 자세하고 많은 정보들을 참고할 수 있다.
 - 공식 사이트인만큼 신뢰도가 높다.
 - 그러나 내용이 방대하고 설명이 너무 자세하게 나와 있어서 나같이 처음하는 사람들은 아래의 참고서도 같이 보면서 공부하는 것이 좋은 것 같다.
 
