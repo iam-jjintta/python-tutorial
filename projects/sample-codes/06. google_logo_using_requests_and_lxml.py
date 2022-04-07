@@ -14,11 +14,13 @@ from lxml import html
 
 url = 'https://www.google.com'
 google = requests.get(url)
+
+# HTML 구문 분석을 위해서 lxml.html 라이브러리의 fromstring 함수에 HTML 문서를 인자값으로 넣어준다.
 # str 타입인 text 보다는 암묵적으로 bytes 타입인 content를 받도록 하는 것이 좋다고 한다.
 # 그 이유는 잘 모르겠으나, 개인적인 생각에는 아마도 속도와 성능 차이때문인 것으로 추정된다.
 # (이것은 어디까지나 나의 개인적인 생각이다.)
-# str은 유니코드(Unicode)이며, 하나의 UTF-8 문자를 표현하는데 2 bytes, 즉 16 bit이다.
-# 반면, bytes는 하나의 ASCII 문자를 표현하는데 1 bytes, 즉 8 bit이다.
+# 참고로, str 타입은 유니코드(Unicode)이며, 하나의 UTF-8 문자를 표현하는데 2 bytes, 즉 16 bit이다.
+# 반면, bytes 타입은 하나의 ASCII 문자를 표현하는데 1 bytes, 즉 8 bit이다.
 document = html.fromstring(google.content)
 
 # HTML 문서에서 원하는 태그를 찾기 위해서는 XPath 문법을 사용해야 한다.
