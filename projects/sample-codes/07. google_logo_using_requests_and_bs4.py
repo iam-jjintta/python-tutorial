@@ -27,10 +27,11 @@ parser = BeautifulSoup(html, 'lxml')
 
 # lxml과 마찬가지로 XPath 혹은 CSS Selector 문법을 통해 태그를 가져올 수 있다.
 # CSS Selector 문법은 XPath보다 훨씬 더 쉽고 속도와 성능이 더 뛰어나다고 한다.
-# 그러나 CSS Selector는 태그의 속성으로만 검색이 가능하다.
-# 따라서 단순히 HTML 문서에서 텍스트만으로 태그를 검색하려면 XPath를 사용해야 한다.
+# 그러나 CSS Selector는 태그명이나 태그가 가진 속성으로만 검색이 가능하다.
+# 따라서, HTML 문서에서 단순 텍스트만으로 태그를 검색하려면 XPath를 사용해야 한다.
 # 하지만 대부분의 HTML 문서에는 태그의 id를 사용하는 것이 일반적이다.
-# 고로 CSS Selector를 사용하는 편이 문법적으로도 쉽고 성능도 더 좋기 때문에 XPath보다 더 권장되는 방식이다.
+# 물론, 그렇지 않은 사이트들도 간혹 있긴 하기 때문에 그럴 경우에는 lxml 대신 html.parser 혹은 html5lib을 사용하면 된다.
+# 즉, 결론은 CSS Selector를 사용하는 편이 문법적으로도 쉽고 성능도 더 좋기 때문에 XPath보다 더 권장되는 방식이다.
 # CSS Selector를 사용하여 태그를 찾기 위해서는 'select' 메서드나 'find_all' 메서드를 사용하면 된다.
 # 태그를 하나만 가져오려면 'select_one' 메서드나 'find' 메서드를 통해 가져올 수 있다.
 img_tags = parser.find_all('img')
