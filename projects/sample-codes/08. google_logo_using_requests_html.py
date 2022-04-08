@@ -12,7 +12,8 @@ from requests_html import HTMLSession
 
 url = 'https://www.google.com'
 
-# 사용하기 위해서는 먼저 HTMLSession 객체를 생성한다.
+# HTML 문서의 구문을 분석하기 위해서는 먼저 HTMLSession 객체를 생성한다.
+# 세션(Session)이란, 서버 측에서 저장하는 클라이언트의 데이터를 의미한다.
 session = HTMLSession()
 google = session.get(url)
 
