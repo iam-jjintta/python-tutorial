@@ -24,9 +24,8 @@ img_tags = html.find('img')
 
 for tag in img_tags:
     # 태그의 속성은 attrs 프로퍼티에 정의되어 있으며, dict 타입이다.
-    attrs = tag.attrs
-    # Key 인덱싱을 통해서 태그의 속성값을 가져올 수 있다.
-    src = attrs['src']
+    # attrs는 dict 타입이므로, Key 인덱싱을 통해서 태그의 속성값을 가져올 수 있다.
+    src = tag.attrs['src']
     url_logo = urljoin(url, src)
     google_logo = session.get(url_logo)
     byte_stream = google_logo.content
