@@ -3,8 +3,9 @@
 
 # 목차 (Table of Contents)
 1. [내용 정리](#내용-정리)
-2. [연습문제](#연습문제)
-3. [풀이](#풀이)
+2. [예제](#예제)
+3. [연습문제](#연습문제)
+4. [풀이](#풀이)
 
 ## 내용 정리
 1. [1일차 - 파이썬 시작하기](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/01%EC%9D%BC%EC%B0%A8.md)
@@ -30,6 +31,8 @@
 21. [21일차 - 문제점과 해결 (2)](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/21%EC%9D%BC%EC%B0%A8.md)
 22. [22일차 - 코루틴](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/22%EC%9D%BC%EC%B0%A8.md)
 23. [23일차 - JSON](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/23%EC%9D%BC%EC%B0%A8.md)
+
+## [예제](https://github.com/iam-jjintta/python-tutorial/tree/main/tutorial/%EC%98%88%EC%A0%9C)
 
 ## 연습문제
 1. [파이썬의 타입](https://github.com/iam-jjintta/python-utorial/blob/main/tutorial/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%EB%AC%B8%EC%A0%9C/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%2001.md)
