@@ -1,6 +1,5 @@
 # 목차 (Table of Contents)
 
-## 내용 정리
 1. [1일차 - 파이썬 시작하기](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/01%EC%9D%BC%EC%B0%A8.md)
 2. [2일차 - 컨테이너 타입](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/02%EC%9D%BC%EC%B0%A8.md)
 3. [3일차 - 조건문](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/03%EC%9D%BC%EC%B0%A8.md)
