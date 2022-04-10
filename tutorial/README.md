@@ -2,6 +2,9 @@
 이 저장소는 제가 파이썬을 독학한 내용들을 정리해놓은 저장소입니다.
 
 # 목차 (Table of Contents)
+1. [내용 정리](#내용-정리)
+2. [연습문제](#연습문제)
+3. [풀이](#풀이)
 
 ## 내용 정리
 1. [1일차 - 파이썬 시작하기](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/01%EC%9D%BC%EC%B0%A8.md)
@@ -33,3 +36,9 @@
 2. [조건문과 반복문](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%EB%AC%B8%EC%A0%9C/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%2002.md)
 3. [함수와 파일 입출력](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%EB%AC%B8%EC%A0%9C/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%2003.md)
 4. [클래스와 모듈, 패키지, 라이브러리](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%EB%AC%B8%EC%A0%9C/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%2004.md)
+
+## 풀이
+1. [파이썬의 타입](https://github.com/iam-jjintta/python-tutorial/tree/main/tutorial/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%ED%92%80%EC%9D%B4/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%2001)
+2. [조건문과 반복문](https://github.com/iam-jjintta/python-tutorial/tree/main/tutorial/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%ED%92%80%EC%9D%B4/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%2002)
+3. [함수와 파일 입출력](https://github.com/iam-jjintta/python-tutorial/tree/main/tutorial/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%ED%92%80%EC%9D%B4/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%2003)
+4. [클래스와 모듈, 패키지, 라이브러리](https://github.com/iam-jjintta/python-tutorial/tree/main/tutorial/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%ED%92%80%EC%9D%B4/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%2004)
