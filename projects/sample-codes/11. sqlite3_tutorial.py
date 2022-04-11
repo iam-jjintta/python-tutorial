@@ -1,5 +1,10 @@
 
 # sqlite3: SQLite 데이터베이스용 DB-API 2.0 인터페이스
+# SQLite는 별도의 서버 프로세스가 필요 없고 SQL 질의 언어의 비표준 변형을 사용한다.
+# 데이터베이스에 액세스할 수 있는 경량 디스크 기반 데이터베이스를 제공하는 C 라이브러리이다.
+# 일부 응용 프로그램은 내부 데이터 저장을 위해 SQLite를 사용할 수 있다.
+# 자세한 내용은 파이썬 공식 문서의 "sqlite3 — SQLite 데이터베이스용 DB-API 2.0 인터페이스"를 참고하면 된다.
+# 파이썬 sqlite3 공식 문서 링크: https://docs.python.org/ko/3/library/sqlite3.html
 import sqlite3
 
 
