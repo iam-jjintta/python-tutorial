@@ -7,6 +7,7 @@
 # 흔한 찐따의 파이썬 튜토리얼 (Python Tutorial)
 - [흔한 찐따](https://github.com/iam-jjintta/)의 파이썬 튜토리얼입니다.
 - 제가 개인적으로 독학하여 공부한 내용들과 예제 코드들을 저장하는 자습서용 깃허브 저장소입니다.
+- [흔한 찐따의 파이썬 프로젝트 (Python Projects)](https://github.com/iamjjintta-python)에 제가 만든 파이썬 프로젝트가 저장되어 있습니다.
 
 ## 깃허브 튜토리얼 (GitHub Tutorial)
 [GitHub Learning Lab](https://lab.github.com/)에서 깃허브 사용 방법에 대해 배워볼 수 있습니다.
