@@ -31,4 +31,4 @@
 
 ## 실행 결과
 
-![dccon-downloader](https://raw.githubusercontent.com/iam-jjintta/python-tutorial/main/projects/dccon-downloader/images/3.PNG)
+![dccon-downloader](https://raw.githubusercontent.com/iamjjintta-python/dccon-downloader/main/images/3.PNG)
