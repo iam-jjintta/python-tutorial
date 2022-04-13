@@ -14,7 +14,7 @@
 12. [12일차 - 함수형 패러다임](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/12%EC%9D%BC%EC%B0%A8.md)
 13. [13일차 - 이터레이터와 제너레이터](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/13%EC%9D%BC%EC%B0%A8.md)
 14. [14일차 - 예외 처리](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/14%EC%9D%BC%EC%B0%A8.md)
-16. [15일차 - 파이썬의 언더바 `_`](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/15%EC%9D%BC%EC%B0%A8.md)
+16. [15일차 - 파이썬의 언더바 ( `_` )](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/15%EC%9D%BC%EC%B0%A8.md)
 16. [16일차 - 내장 함수](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/16%EC%9D%BC%EC%B0%A8.md)
 17. [17일차 - 라이브러리](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/17%EC%9D%BC%EC%B0%A8.md)
 18. [18일차 - 가상 환경 및 패키지](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/18%EC%9D%BC%EC%B0%A8.md)
