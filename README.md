@@ -14,7 +14,7 @@
 - [github-slideshow](https://github.com/iam-jjintta/github-slideshow) 라는 저장소가 생성되며, 튜토리얼을 진행할 수 있습니다.
 - 추가로, 마크다운 문법에 대한 튜토리얼은 저의 [마크다운 튜토리얼 (Markdown Tutorial)](https://github.com/iam-jjintta/markdown-tutorial) 저장소에서 확인할 수 있습니다.
 
-## 흔한 찐따의 파이썬 튜토리얼 깃허브 위키(wiki) 페이지
+## 위키 페이지 (Wiki Pages)
 공부했던 내용들을 정리해둔 [위키(wiki)](https://github.com/iam-jjintta/python-tutorial/wiki) 페이지를 만들어봤습니다.
 
 ## 파이썬 다운로드 및 설치하기
