@@ -10,7 +10,9 @@
 - [흔한 찐따의 파이썬 프로젝트 (Python Projects)](https://github.com/iamjjintta-python)에 제가 만든 파이썬 프로젝트가 저장되어 있습니다.
 
 ## 깃허브 튜토리얼 (GitHub Tutorial)
-[GitHub Learning Lab](https://lab.github.com/)에서 깃허브 사용 방법에 대해 배워볼 수 있습니다.
+- [GitHub Learning Lab](https://lab.github.com/)에서 깃허브 사용 방법에 대해 배워볼 수 있습니다.
+- [github-slideshow](https://github.com/iam-jjintta/github-slideshow) 라는 저장소가 생성되며, 튜토리얼을 진행할 수 있습니다.
+- 추가로, 마크다운 문법에 대한 튜토리얼은 저의 [마크다운 튜토리얼 (Markdown Tutorial)](https://github.com/iam-jjintta/markdown-tutorial) 저장소에서 확인할 수 있습니다.
 
 ## 흔한 찐따의 파이썬 튜토리얼 깃허브 위키(wiki) 페이지
 공부했던 내용들을 정리해둔 [위키(wiki)](https://github.com/iam-jjintta/python-tutorial/wiki) 페이지를 만들어봤습니다.
