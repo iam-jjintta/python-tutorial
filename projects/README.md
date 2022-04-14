@@ -22,7 +22,7 @@
 
 ## simple-python-launcher
 - 위의 `simple-memo` 프로젝트에서 몇 가지 기능들을 좀 더 추가해서 만든 두 번째 프로젝트입니다.
-- 전체 소스 코드를 확인하시려면 [저장소](https://github.com/iam-jjintta/python-tutorial/tree/main/projects/simple-python-launcher)를,
+- 전체 소스 코드를 확인하시려면 [저장소](https://github.com/iam-jjintta/python-tutorial/tree/main/projects/simple-python-launcher)를 참고해주세요.
 - 프로젝트에 대한 잡다한 썰을 보시려면 [티스토리 블로그 포스팅](https://iamjjintta.tistory.com/144)을 참고해주세요.
 
 ## simple-email
