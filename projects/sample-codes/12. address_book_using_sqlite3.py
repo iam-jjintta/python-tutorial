@@ -119,17 +119,15 @@ class AddressBook:
 
 
     def execute(self, query):
-        cur = self.conn.cursor()
-        cur.execute(query)
-        self.conn.commit()
-        cur.close()
+        with self.conn.cursor() as cur:
+            cur.execute(query)
+            self.conn.commit()
 
 
     def fetch(self, query):
-        cur = self.conn.cursor()
-        cur.execute(query)
-        result = cur.fetchall()
-        cur.close()
+        with self.conn.cursor() as cur:
+            cur.execute(query)
+            result = cur.fetchall()
         return result
 
 
