@@ -12,10 +12,10 @@ setup(
     url              = 'https://github.com/iam-jjintta',
     download_url     = 'https://github.com/iam-jjintta',
     install_requires = [ ],
-    packages= find_packages(),
+    packages         = find_packages(),
     keywords         = ['iamjjintta'],
     python_requires  = '>=3',
-    zip_safe=False,
+    zip_safe         = False,
     classifiers      = [
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.1',
