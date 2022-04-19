@@ -1,6 +1,7 @@
 
 # flask: Python용 "마이크로 프레임워크(micro-framework)"이다.
 # flask는 더 작은 애플리케이션, API 및 웹 서비스를 구축하기 위한 라이브러리이다.
+# flask 공식 문서: https://flask.palletsprojects.com/en/2.1.x/
 # 디자인 패턴 중에서 웹 프레임워크에 보편적으로 사용되는 패턴인 'MVC 패턴'으로 설계되었다.
 # flask는 특히 간단하게 웹 서비스를 개발할 수 있는 강력한 프레임워크이다.
 # flask를 사용하기 위해서는 명령 프롬프트에 'pip' 명령어를 통해 설치해야 한다.
