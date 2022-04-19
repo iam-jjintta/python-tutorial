@@ -24,3 +24,4 @@
 22. [22일차 - 코루틴](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/22%EC%9D%BC%EC%B0%A8.md)
 23. [23일차 - JSON](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/23%EC%9D%BC%EC%B0%A8.md)
 24. [24일차 - 단위 테스트](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/24%EC%9D%BC%EC%B0%A8.md)
+25. [25일차 - 플라스크 프레임워크](https://github.com/iam-jjintta/python-tutorial/blob/main/tutorial/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC/25%EC%9D%BC%EC%B0%A8.md)
