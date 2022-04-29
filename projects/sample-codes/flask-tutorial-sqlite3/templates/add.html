@@ -1,0 +1,62 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>{{ title }}</title>
+</head>
+<body>
+    <main>
+        <form id="frmAddress" action="/add" method="POST">
+            <table id="address" border="1">
+                <tr>
+                    <th>성</th>
+                    <td>
+                        <input type="text" id="first_name" name="first_name">
+                    </td>
+                </tr>
+                <tr>
+                    <th>이름</th>
+                    <td>
+                        <input type="text" id="last_name" name="last_name">
+                    </td>
+                </tr>
+                <tr>
+                    <th>이메일</th>
+                    <td>
+                        <input type="text" id="email" name="email">
+                    </td>
+                </tr>
+                <tr>
+                    <th>휴대번호</th>
+                    <td>
+                        <input type="text" id="phone_no" name="phone_no">
+                    </td>
+                </tr>
+                <tr>
+                    <th>주소</th>
+                    <td>
+                        <input type="text" id="home_address" name="home_address">
+                    </td>
+                </tr>
+                <tr>
+                    <th>학교/회사</th>
+                    <td>
+                        <input type="text" id="company" name="company">
+                    </td>
+                </tr>
+                <tr>
+                    <th>설명</th>
+                    <td>
+                        <textarea id="description" name="description"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center">
+                        <input type="submit" value="등록">
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </main>
+</body>
+</html>

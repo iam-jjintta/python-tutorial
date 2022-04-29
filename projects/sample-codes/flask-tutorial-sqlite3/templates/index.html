@@ -1,0 +1,40 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>{{ title }}</title>
+</head>
+<body>
+    <main>
+        <div id="section" align="center">
+            <h1>{{ title }}</h1>
+            <h2>흔한 찐따의 주소록</h2>
+        </div>
+        <a href="/add">
+            <button id="add">새 주소록 등록</button>
+        </a>
+        <table id="books" border="1">
+            <tr>
+                <th>성</th>
+                <th>이름</th>
+                <th>이메일</th>
+                <th>휴대번호</th>
+                <th>주소</th>
+                <th>학교/직장</th>
+                <th>설명</th>
+            </tr>
+            {% for addr in books %}
+            <tr>
+                <td>{{ addr.first_name }}</td>
+                <td>{{ addr.last_name }}</td>
+                <td>{{ addr.email }}</td>
+                <td>{{ addr.phone_no }}</td>
+                <td>{{ addr.home_address }}</td>
+                <td>{{ addr.company }}</td>
+                <td>{{ addr.description }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </main>
+</body>
+</html>
