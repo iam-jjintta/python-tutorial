@@ -15,7 +15,7 @@ app.secret_key = 'iamjjintta'
 
 @app.before_first_request
 def init_app():
-    db.drop()
+    # db.drop()
     db.create()
 
 
