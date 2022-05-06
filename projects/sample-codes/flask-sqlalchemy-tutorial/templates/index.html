@@ -1,0 +1,33 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>{{ title }}</title>
+</head>
+<body>
+    <main>
+        <div id="main" align="center">
+            <h1>{{ title }}</h1>
+            <div id="add">
+                <a href="/add">
+                    <button>새 데이터 등록</button>
+                </a>
+            </div>
+            <table id="DataTable" border="1">
+                <tr>
+                    <th>번호</th>
+                    <th>데이터명</th>
+                    <th>설명</th>
+                </tr>
+                {% for data in data_table %}
+                <tr>
+                    <td>{{ data.no }}</td>
+                    <td>{{ data.name }}</td>
+                    <td>{{ data.description }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </main>
+</body>
+</html>

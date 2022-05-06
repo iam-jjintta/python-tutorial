@@ -1,0 +1,35 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>{{ title }}</title>
+</head>
+<body>
+    <main>
+        <div id="add">
+            <h1>{{ title }}</h1>
+            <form id="frmDataTable" action="/add" method="POST">
+                <table id="data" border="1">
+                    <tr>
+                        <th>데이터명</th>
+                        <td>
+                            <input type="text" id="name" name="name">
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>설명</th>
+                        <td>
+                            <textarea id="description" name="description"></textarea>
+                        </td>
+                    </tr>
+                    <tr align="center">
+                        <td colspan="2">
+                            <input type="submit" value="등록">
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </main>
+</body>
+</html>
